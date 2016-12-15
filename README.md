@@ -1,5 +1,5 @@
 # Verilog_Calculator
-A mini Verilog code that allows users to do simple addition, subtraction, and multiplication with 3-bit numbers using PS/2 keyboard inputs.
+A mini Verilog code that allows users to do addition, subtraction, and multiplication with 3-bit numbers using PS/2 keyboard inputs.
 Push number keys to input numbers.
 Push A for addition.
 Push S for subtraction.
