@@ -1,6 +1,6 @@
 `timescale 1ns/1ps
 
-module OQ2_Calculator(display, digit, PS2_DATA, PS2_CLK, rst, clk);
+module Simple_Calculator(display, digit, PS2_DATA, PS2_CLK, rst, clk);
 	output [6:0] display;
 	output [3:0] digit;
 	inout PS2_DATA;
